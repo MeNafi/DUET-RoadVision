@@ -128,7 +128,7 @@ One submission can change everything.
 
 # 🏅 Leaderboard
 
-**Competition Leaderboard**  https://lnkd.in/gVKPVKDZ
+**Competition Leaderboard**  https://www.kaggle.com/competitions/road-vision/leaderboard
 
 ---
 
